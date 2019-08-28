@@ -4,7 +4,7 @@ springboot 独立图片服务器，支持单图片，多图片，表单提交，
 
 ## 启动
 
-找到clone的项目的run文件夹，然后双击 `server-image-start.bat`文件，运行之后，浏览器访问：http://localhost:9000/ ，上传即可
+找到clone的项目的run文件夹，然后双击 `server-image-start.bat`文件，运行之后，浏览器访问：http://localhost:9000/ ，上传即可。上传之后保存的路径默认为当前启动项目jar的地方。
 
 > 页面上的输入框表示图片存储的根目录，默认为default
 
